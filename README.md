@@ -1,2 +1,2 @@
 # Speech-Emotion-Recognition-with-sentiment-analysis-using-deep-learning
-The proposed system is to perform various command such as start, shut down , save etc. through facial gesture and face detection.
+The integration of speech emotion recognition using MLP classifier, speech to text using ASR, and sentimental analysis can provide several advantages in understanding and analyzing spoken content.
